@@ -24,9 +24,3 @@ ex) insertion/deletion, traversal, searching, sorting, access
 Array, HashTable, LinkedList, Stack, Queue, 
 
 ## gogo
-
-### Array
-
-store data and go over data
-
-lookup(O(1)), push(O(1)), insert/delete(O(n))

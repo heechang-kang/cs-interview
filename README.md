@@ -18,10 +18,10 @@
 | Algorithm                       |     |
 | 12.Graphs                       |     |
 | 13.Recursion                    |     |
+| 14.Searching, BFS, DFS          |     |
+| 15.Dynamic programming          |     |
 |                                 |     |
-|                                 |     |
-|                                 |     |
-|                                 |     |
+| 16.non-technical                |     |
 |                                 |     |
 |                                 |     |
 |                                 |     |
