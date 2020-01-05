@@ -5,6 +5,7 @@ readability, memory(space), speed(time)
 collection of values(array, objects)
 
 ### how computer store values
+
 CPU, RAM, Storage
 
 RAM : address, value(bits)
@@ -18,7 +19,6 @@ goal : minimize CPU to access and manage data
 data structure is a way to organize the data, variation of storing data\
 
 ex) insertion/deletion, traversal, searching, sorting, access
-
 
 ### List
 Array, HashTable, LinkedList, Stack, Queue, 
