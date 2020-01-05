@@ -7,7 +7,8 @@
 | 3.Big-O                         |     |
 | 4.basic-solving coding problems |     |
 |                                 |     |
-| 5. data structure               |     |
+| data structure                  |     |
+| 5. intro                        |     |
 | 6. array                        |     |
 | 7. hash Table                   |     |
 | 8. Linked List                  |     |
@@ -22,7 +23,9 @@
 | 15.Dynamic programming          |     |
 |                                 |     |
 | 16.non-technical                |     |
-|                                 |     |
-|                                 |     |
-|                                 |     |
-|                                 |     |
+| 17. offer                       |     |
+| 19. Real Questions              |     |
+| 20. Contribute to OpenSource    |     |
+| 21.                             |     |
+
+### 17. Offer & Negotiation
